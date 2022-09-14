@@ -3,4 +3,4 @@
 
  * write your markdown in /src/main.md
  * run `sh start_DOC.sh`
- * your HTML page will show on your `localhost:21099`
+ * your HTML page will be show on your `localhost:21099`
